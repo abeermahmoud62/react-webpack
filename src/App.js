@@ -3,7 +3,7 @@ function App() {
     return (
         <div>
             <h1>My React App</h1>
-            <p>hello abeer</p>
+            <p>with webpack and babel</p>
         </div>
     );
 }
